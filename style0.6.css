@@ -1,0 +1,101 @@
+.img{
+    width: 150px;
+    height: 150px;
+    float: left;
+
+}
+.h11{
+    text-align: center;
+    padding: 40px;
+    margin: auto;
+    font-size: 50px;
+    color: #808080
+}
+li{
+    list-style-type: none;
+    display: inline;
+    padding: 100px;
+    font-size: larger;
+    font-weight: bold;
+}
+a{
+    color:rgb(64, 141, 158); 
+}
+:hover{
+    color:red
+}
+.four{
+    background-image: linear-gradient(to right,rgb(69, 161, 161),rgb(211, 219, 225),rgb(162, 170, 174));
+    text-align: center;
+    padding: 15px;
+    margin: auto;
+    font-size: 25px;  
+    color: #585656;
+    font-family: serif;
+}
+.div1{
+    background-color: rgb(231, 228, 249);
+    height: 700px;
+    width: 500px;
+    border-radius: 5%;
+    display: inline;
+    
+    margin: left;
+    
+    
+}
+.news{
+    text-align: center;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.p1{
+    text-align: center;
+    font-size: 30px;
+}
+.li2{
+list-style-type:disc;
+display: inline-block;
+padding: 40px;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.div2{
+    background-color: rgb(254, 191, 238);
+    height: 700px;
+    width: 500px;
+    border-radius: 5%;
+    
+    display: inline;
+    margin:left;
+
+} 
+.dentist{
+    text-align: center;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.div3{
+    background-color: rgb(236, 205, 242);
+    height: 700px;
+    width: 500px;
+    border-radius: 5%;
+    
+    display: inline;
+    margin: left;
+}
+.quicktips{
+    text-align: center;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.li3{
+    list-style-type:disc;
+    display: inline-block;
+    padding: 40px;
+    }
